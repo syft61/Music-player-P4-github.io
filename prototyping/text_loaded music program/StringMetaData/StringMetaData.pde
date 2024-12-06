@@ -5,9 +5,11 @@ import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
 import ddf.minim.signals.*;
 import ddf.minim.spi.*;
-import ddf.minim.ugens.*;
+import ddf.minim.ugens.*;t
 //
 //Global Variables
+
+//
 int appWidth,  appHeight;
 float LunchablesX1, LunchablesY1, LunchablesWidth1, LunchablesHeight1;
 float LunchablesX2, LunchablesY2, LunchablesWidth2, LunchablesHeight2;
